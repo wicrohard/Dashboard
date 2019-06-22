@@ -12,7 +12,9 @@
 * UI design
 ## 讨论问题
 ### 代码规范
+
 ![代码规范文档](../Production_specification/Code_specification.md)
+
 ### 本阶段工作
 时间：Week9 ~ Week10
 
