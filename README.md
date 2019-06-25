@@ -34,8 +34,8 @@ X1. meeting-records
    - [Iteration5 meeting](documents/Meeting_records/Iteration5_meeting.md)  
 
 X4. Tech/Work Report  
-   - [微信小程序云开发：项目创建与云开发控制台](https://blog.csdn.net/Lyn_B/article/details/93480900)  
-   - [微信小程序云开发：数据库操作](https://blog.csdn.net/Lyn_B/article/details/93533339)  
+   - [16340144-微信小程序云开发：项目创建与云开发控制台](https://blog.csdn.net/Lyn_B/article/details/93480900)  
+   - [16340144-微信小程序云开发：数据库操作](https://blog.csdn.net/Lyn_B/article/details/93533339)  
    - [16340163-微信小程序前端：绘制条形图](https://blog.csdn.net/qq_36335657/article/details/93655796)
 
    
