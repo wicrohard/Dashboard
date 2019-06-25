@@ -14,7 +14,7 @@
 	- 6.6 [Supplementary Requirements（补充需求）](documents/Requirement_specification/Supplementary_requirements.md)
 7. [Design(设计)](documents/Design/Design.md)
 	- 7.1 [UI design（界面设计）](documents/Design/UI/UI_design.md)
-	- 7.2 [Database design（数据库设计）](documents/Design/Database)
+	- 7.2 [Database design（数据库设计）](https://blog.csdn.net/Lyn_B/article/details/93533339)
 	- 7.3 [Interface API design（接口 API 设计）](documents/Design/API/API_design.md)
 	- 7.4 [Architecture design（架构设计）](documents/Design/Architecture/Architecture_design.md)
 	- 7.5 [Usecase design（用例设计）](documents/Design/Usecase/Usecase_design.md)
