@@ -20,7 +20,7 @@
 | - | - | - | - |
 | 16340159 | LLP | [lulinpeng](https://github.com/lulinpeng) | 项目经理、JS工程师 |
 | 16340163 | LYM | [L1997YM](https://github.com/L1997YM/ "With a Title") | 产品经理、JS工程师 |
-|  | LYS | | 技术经理、测试工程师 |
+| 16340144 | LYS | [linysh26](https://github.com/linysh26)| 技术经理、测试工程师 |
 |  | LJY | | 客户经理、测试工程师 |
 
 ### 具体分工和个人宣言
