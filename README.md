@@ -39,5 +39,5 @@ X4. Tech/Work Report
    - [16340163-微信小程序前端：绘制条形图](https://blog.csdn.net/qq_36335657/article/details/93655796)
 
 X5. Final Report
-   - [16340163-LYM](documents/Final Report/16340163-LYM.md)
+   - [16340163-LYM](documents/Final%20Report/16340163-LYM.md)
    
