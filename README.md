@@ -1,5 +1,7 @@
 # Dashboard
 
+[项目代码仓库](https://github.com/wicrohard/Project)
+
 1. [About（项目概况）](documents/about.md)
 2. [Team profile（团队组建）](documents/Team_profile.md)
 3. [Investigation（项目前期调研）](documents/Investigation.md)
@@ -24,6 +26,7 @@
 	- 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](documents/Production_specification/BCE.md)
 	- 8.4 [部署说明](documents/Production_specification/Deployment_instructions.md)
 9. [成品展示](documents/Demonstration.md)
+10. [用户手册](documents/User_manual.md)
 
 X1. meeting-records
    - [Inception meeting](documents/Meeting_records/Inception_meeting.md)
