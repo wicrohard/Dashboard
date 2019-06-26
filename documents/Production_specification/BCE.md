@@ -92,7 +92,6 @@
 │   ├── app.wxss
 │   └── sitemap.json
 └── project.config.json
-```
 ~~~
 ## EBC
 * Entity:代表系统数据，本项目中主要是指数据库中的记录，例如用户信息记录、问卷记录、失物招领记录。
