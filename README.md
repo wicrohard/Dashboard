@@ -33,6 +33,8 @@ X1. meeting-records
    - [Iteration4 meeting](documents/Meeting_records/Iteration4_meeting.md)
    - [Iteration5 meeting](documents/Meeting_records/Iteration5_meeting.md)  
 
+X3. auditing-records
+
 X4. Tech/Work Report  
    - [16340144-微信小程序云开发：项目创建与云开发控制台](https://blog.csdn.net/Lyn_B/article/details/93480900)  
    - [16340144-微信小程序云开发：数据库操作](https://blog.csdn.net/Lyn_B/article/details/93533339)  
@@ -40,4 +42,5 @@ X4. Tech/Work Report
 
 X5. Final Report
    - [16340163-LYM](documents/Final%20Report/16340163-LYM.md)
+   - [小组分工与贡献率说明](documents/Final%20Report/16340163-LYM.md)
    
