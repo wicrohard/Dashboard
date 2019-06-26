@@ -38,4 +38,6 @@ X4. Tech/Work Report
    - [16340144-微信小程序云开发：数据库操作](https://blog.csdn.net/Lyn_B/article/details/93533339)  
    - [16340163-微信小程序前端：绘制条形图](https://blog.csdn.net/qq_36335657/article/details/93655796)
 
+X5. Final Report
+   - [16340163-LYM](documents/Final Report/16340163-LYM.md)
    
