@@ -6,7 +6,7 @@
 
 * 登录
 
-![](Requirement_image/System_sequence_diagrams8.png)
+![](Requirement_image/System_sequence_diagrams0.png)
 
 * 创建问卷
 
