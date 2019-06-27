@@ -4,6 +4,7 @@
 | - | - | - | - |
 | v1.1 | 2019.4.24 | API设计规范 | LLP |
 
+
 REST是Representational State Transfer（表现层状态转移）的缩写，是用来描述创建HTTP API的标准方法的。HTTP中有8种不同的方法，包括GET、POST、PUT、DELETE、OPTIONS、HEAD、TRACE、CONNECT，常用的是GET、POST、PUT和DELETE方法。
 ## URI
 URI = scheme "://" authority "/" path [ "?" query ][ "#" fragment ]
