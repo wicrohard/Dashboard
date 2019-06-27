@@ -42,7 +42,8 @@ X4. Tech/Work Report
    - [16340144-微信小程序云开发：项目创建与云开发控制台](https://blog.csdn.net/Lyn_B/article/details/93480900)  
    - [16340144-微信小程序云开发：数据库操作](https://blog.csdn.net/Lyn_B/article/details/93533339)  
    - [16340163-微信小程序前端：绘制条形图](https://blog.csdn.net/qq_36335657/article/details/93655796)
-   - [16340159-微信小程序：获取用户openid](https://blog.csdn.net/llp0159/article/details/93801930)
+   - [16340159-微信小程序：获取用户openid](https://blog.csdn.net/llp0159/article/details/93801930)  
+   
 X5. Final Report
    - [16340163-LYM](documents/Final%20Report/16340163-LYM.md)
    - [小组分工与贡献率说明](documents/Final%20Report/小组分工与贡献率说明.md)
